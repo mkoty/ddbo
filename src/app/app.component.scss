@@ -1,0 +1,9 @@
+.logo {
+  position: absolute;
+  top: 0;
+  left: 20px;
+}
+
+:host ::ng-deep .mat-tab-link {
+  height: 88px;
+}
